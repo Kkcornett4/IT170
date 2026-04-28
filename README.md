@@ -6,5 +6,5 @@ In this project we will be creating a system that takes input as an image or a f
 
 Packages used:
 -ReportLab, Pytesseract
-Modules used:
+| Modules used:
 -OS, Path, Shutil
